@@ -19,7 +19,14 @@
     text-align: Center;
     /* set the text alignment here */
    }
-
+div {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-image: img src ="images/DD0C106D-2385-4B57-BCE6-15981B41E82F.jpeg";
+  border: 1px solid #666;
+  height: 10em;
+}
   footer {
     margin-top: 2rem;
     margin-bottom: 2rem;
