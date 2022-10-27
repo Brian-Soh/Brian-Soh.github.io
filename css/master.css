@@ -18,6 +18,9 @@
     font-family: Times New Roman, Garamond, Serif;
     text-align: Center;
     background-image: url("../images/DD0C106D-2385-4B57-BCE6-15981B41E82F.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
     /* set the text alignment here */
    }
 
