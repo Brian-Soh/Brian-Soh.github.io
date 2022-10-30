@@ -33,7 +33,10 @@
   image-position: center;
   width: 350px;
   height: auto;
-
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  margin-left: 2rem;
+  margin-right: 2rem;
 }
 
   h1 {
